@@ -173,6 +173,7 @@
   "data": [
     {
       "id": "1",
+      "qty": 1,
       "name": "Nykaa All Day Matte Waterproof, Transfer Proof, Mask Proof, 12H Liquid Lipstick - Teacher Tribe (2.1ml)",
       "price": "349",
       "rating": "★★★★✩",
@@ -186,6 +187,7 @@
     },
     {
       "id": "2",
+      "qty": 1,
       "name": "Nykaa Eyes On Me! 10-in-1 Eyeshadow Palette - Beachside Peach(12gm)",
       "price": "599",
       "rating": "★★★★✩",
@@ -199,6 +201,7 @@
     },
     {
       "id": "3",
+      "qty": 1,
       "name": "Nykaa Paintstix! Waterproof Matte Lipstick - Cheerleader Daze 16 (3.5g)",
       "price": "425",
       "rating": "★★★✩✩",
@@ -212,6 +215,7 @@
     },
     {
       "id": "4",
+      "qty": 1,
       "name": "Nykaa So Creme! Creamy Matte Lipstick - Wakeup Makeup (4.2gm)",
       "price": "299",
       "rating": "★★★★★",
@@ -225,6 +229,7 @@
     },
     {
       "id": "5",
+      "qty": 1,
       "name": "Nykaa Matte to Last! Transfer Proof Liquid Lipstick -Kaveri - 20 (5ml)",
       "price": "449",
       "rating": "★★★★✩",
@@ -238,6 +243,7 @@
     },
     {
       "id": "6",
+      "qty": 1,
       "name": "Nykaa Sealed with a Kiss! Lipstick Palette - Limited Edition (13.5gm)",
       "price": "799",
       "rating": "★★★★✩",
@@ -251,6 +257,7 @@
     },
     {
       "id": "7",
+      "qty": 1,
       "name": "Nykaa Get Set Matte! Demi Matte Lip Cream Liquid Lipstick - GOALS (5ml)",
       "price": "349",
       "rating": "★★★★✩",
@@ -264,6 +271,7 @@
     },
     {
       "id": "8",
+      "qty": 1,
       "name": "Nykaa Gloss it Up! High Shine Lip Gloss - 01 Honey Boo (5ml)",
       "price": "459",
       "rating": "★★★★✩",
@@ -277,6 +285,7 @@
     },
     {
       "id": "9",
+      "qty": 1,
       "name": "Nykaa All Day Matte Waterproof, Transfer Proof, Mask Proof, 12H Liquid Lipstick - Soul Sister (2.1ml)",
       "price": "849",
       "rating": "★★★★★",
@@ -290,6 +299,7 @@
     },
     {
       "id": "10",
+      "qty": 1,
       "name": "Nykaa Matte to Last! Mini Metallic Liquid Lipstick and Eyeshadow - Firework (1.2ml)",
       "price": "249",
       "rating": "★★★✩✩",
@@ -303,6 +313,7 @@
     },
     {
       "id": "11",
+      "qty": 1,
       "name": "Nykaa So Matte! Mini Lipstick - 30 M Regal Ruby (1.5g)",
       "price": "199",
       "rating": "★★★✩✩",
@@ -316,6 +327,7 @@
     },
     {
       "id": "12",
+      "qty": 1,
       "name": "Nykaa Matte to Last! Transfer Proof Liquid Lipstick - Bombae -01",
       "price": "599",
       "rating": "★★★★✩",
@@ -329,6 +341,7 @@
     },
     {
       "id": "13",
+      "qty": 1,
       "name": "Nykaa Cosmetics All Day Matte Compact- Vanilla, So Creme Lipstick- Pep Talk & Black Magic Kajal Combo",
       "price": "489",
       "rating": "★★★★✩",
@@ -342,6 +355,7 @@
     },
     {
       "id": "14",
+      "qty": 1,
       "name": "Nykaa Sealed with a Kiss! Lipstick Palette - Flower Child 02",
       "price": "349",
       "rating": "★★★★✩",
@@ -355,6 +369,7 @@
     },
     {
       "id": "15",
+      "qty": 1,
       "name": "Nykaa All Day Matte Waterproof, Transfer Proof, Mask Proof, 12H Liquid Lipstick - Soul Sister (2.1ml)",
       "price": "349",
       "rating": "★★★★✩",
@@ -368,6 +383,7 @@
     },
     {
       "id": "16",
+      "qty": 1,
       "name": "Nykaa Nail Enamel",
       "price": "95",
       "rating": "★★★★★",
@@ -377,10 +393,11 @@
       "img2": "https://images-static.nykaa.com/media/catalog/product/f/5/f5711f9nykac00000074_2.jpg",
       "img3": "https://images-static.nykaa.com/media/catalog/product/f/5/f5711f9nykac00000074_5.jpg",
       "img4": "https://images-static.nykaa.com/media/catalog/product/f/5/f5711f9nykac00000074_7.jpg",
-      "description":"Glam up your nails with a Nail Collection that has something for everyone, and every occasion. Keep these gorgeous shades on standby for the times when you want your nails to look on point. Our formulas deliver intense, long-lasting colour and dries in a jiffy. From soft pastels and matte nudes to super shiny salon gel polish, glittery golds and holographic hues, Nykaa's nail polish collection will give your tips a stunning makeover."
+      "description": "Glam up your nails with a Nail Collection that has something for everyone, and every occasion. Keep these gorgeous shades on standby for the times when you want your nails to look on point. Our formulas deliver intense, long-lasting colour and dries in a jiffy. From soft pastels and matte nudes to super shiny salon gel polish, glittery golds and holographic hues, Nykaa's nail polish collection will give your tips a stunning makeover."
     },
     {
       "id": "17",
+      "qty": 1,
       "name": "Masaba by Nykaa",
       "price": "100",
       "rating": "★★★★✩",
@@ -394,6 +411,7 @@
     },
     {
       "id": "18",
+      "qty": 1,
       "name": "Salon Shine Gel Nail Lacquer",
       "price": "228",
       "rating": "★★★★✩",
@@ -407,6 +425,7 @@
     },
     {
       "id": "19",
+      "qty": 1,
       "name": "Cookie Crumble Nail Enamel",
       "price": "174",
       "rating": "★★★★★",
@@ -420,6 +439,7 @@
     },
     {
       "id": "20",
+      "qty": 1,
       "name": "Dual Tone Nail Enamel Remover",
       "price": "99",
       "rating": "★★★★★",
@@ -433,6 +453,7 @@
     },
     {
       "id": "21",
+      "qty": 1,
       "name": "Unicorn Potion Nail Enamel",
       "price": "212",
       "rating": "★★★★✩",
@@ -442,10 +463,11 @@
       "img2": "https://images-static.nykaa.com/media/catalog/product/f/5/f5711f9nykac00000074_2.jpg",
       "img3": "https://images-static.nykaa.com/media/catalog/product/f/5/f5711f9nykac00000074_5.jpg",
       "img4": "https://images-static.nykaa.com/media/catalog/product/f/5/f5711f9nykac00000074_7.jpg",
-      "description":"Glam up your nails with a Nail Collection that has something for everyone, and every occasion. Keep these gorgeous shades on standby for the times when you want your nails to look on point. Our formulas deliver intense, long-lasting colour and dries in a jiffy. From soft pastels and matte nudes to super shiny salon gel polish, glittery golds and holographic hues, Nykaa's nail polish collection will give your tips a stunning makeover."
+      "description": "Glam up your nails with a Nail Collection that has something for everyone, and every occasion. Keep these gorgeous shades on standby for the times when you want your nails to look on point. Our formulas deliver intense, long-lasting colour and dries in a jiffy. From soft pastels and matte nudes to super shiny salon gel polish, glittery golds and holographic hues, Nykaa's nail polish collection will give your tips a stunning makeover."
     },
     {
       "id": "22",
+      "qty": 1,
       "name": "Lakme Color Crush Nail Art",
       "price": "160",
       "rating": "★★★★★",
@@ -459,6 +481,7 @@
     },
     {
       "id": "23",
+      "qty": 1,
       "name": "Lakme 9 To 5 Primer + Gloss Nail Color",
       "price": "190",
       "rating": "★★★★★",
@@ -472,6 +495,7 @@
     },
     {
       "id": "24",
+      "qty": 1,
       "name": "Lakme Absolute Gel",
       "price": "275",
       "rating": "★★★★★",
@@ -485,6 +509,7 @@
     },
     {
       "id": "25",
+      "qty": 1,
       "name": "Lakme True Wear Nail Color",
       "price": "130",
       "rating": "★★★★✩",
@@ -498,6 +523,7 @@
     },
     {
       "id": "26",
+      "qty": 1,
       "name": "Lakme Absolute Gel Stylist Nail Color",
       "price": "260",
       "rating": "★★★★★",
@@ -511,6 +537,7 @@
     },
     {
       "id": "27",
+      "qty": 1,
       "name": "Lakme Nail Paint + Top Coat",
       "price": "535",
       "rating": "★★★★★",
@@ -524,6 +551,7 @@
     },
     {
       "id": "28",
+      "qty": 1,
       "name": "Lakme Forever Matte Liquid Lip Color",
       "price": "297",
       "rating": "★★★★★",
@@ -537,6 +565,7 @@
     },
     {
       "id": "29",
+      "qty": 1,
       "name": "Lakme Lip Love Chapstick",
       "price": "100",
       "rating": "★★★★✩",
@@ -550,6 +579,7 @@
     },
     {
       "id": "30",
+      "qty": 1,
       "name": "Lakme Cushion Matte Lipstick",
       "price": "254",
       "rating": "★★★★★",
@@ -563,6 +593,7 @@
     },
     {
       "id": "31",
+      "qty": 1,
       "name": "Lakme Absolute Matte Melt",
       "price": "333",
       "rating": "★★★★★",
@@ -576,6 +607,7 @@
     },
     {
       "id": "32",
+      "qty": 1,
       "name": "Lakme Ultimate Lip color",
       "price": "743",
       "rating": "★★★★★",
@@ -589,6 +621,7 @@
     },
     {
       "id": "33",
+      "qty": 1,
       "name": "Lakme Absolute Precision Lip Paint",
       "price": "630",
       "rating": "★★★★✩",
@@ -602,6 +635,7 @@
     },
     {
       "id": "34",
+      "qty": 1,
       "name": "MyGlamm Hi-Shine Lipstick",
       "price": "665",
       "rating": "★★★★★",
@@ -615,6 +649,7 @@
     },
     {
       "id": "35",
+      "qty": 1,
       "name": "MyGlamm Soft Matte Lipstick",
       "price": "630",
       "rating": "★★★★★",
@@ -628,6 +663,7 @@
     },
     {
       "id": "36",
+      "qty": 1,
       "name": "MyGlamm Popxo Lip Kit",
       "price": "244",
       "rating": "★★★★★",
@@ -641,6 +677,7 @@
     },
     {
       "id": "37",
+      "qty": 1,
       "name": "MyGlamm LIT Satin Matte",
       "price": "347",
       "rating": "★★★★✩",
@@ -654,6 +691,7 @@
     },
     {
       "id": "38",
+      "qty": 1,
       "name": "MyGlamm Ultimatte Long Stay",
       "price": "489",
       "rating": "★★★★★",
@@ -667,6 +705,7 @@
     },
     {
       "id": "39",
+      "qty": 1,
       "name": "MyGlamm POSE HD Matte Lipstick",
       "price": "419",
       "rating": "★★★★★",
@@ -680,6 +719,7 @@
     },
     {
       "id": "40",
+      "qty": 1,
       "name": "MyGlamm Nail Lacquer",
       "price": "207",
       "rating": "★★★★✩",
@@ -693,6 +733,7 @@
     },
     {
       "id": "41",
+      "qty": 1,
       "name": "MyGlamm LIR Nail Enamel",
       "price": "133",
       "rating": "★★★★★",
@@ -706,6 +747,7 @@
     },
     {
       "id": "42",
+      "qty": 1,
       "name": "MyGlamm Popxo Makeup Collection",
       "price": "209",
       "rating": "★★★★✩",
@@ -719,6 +761,7 @@
     },
     {
       "id": "43",
+      "qty": 1,
       "name": "MyGlam 2 in 1 Nail Paint",
       "price": "307",
       "rating": "★★★★★",
@@ -732,6 +775,7 @@
     },
     {
       "id": "44",
+      "qty": 1,
       "name": "MyGlamm Lit Matte Nail Enamel",
       "price": "154",
       "rating": "★★★★✩",
@@ -745,6 +789,7 @@
     },
     {
       "id": "45",
+      "qty": 1,
       "name": "MyGlamm Wanderlust Matt Chrome Nail Paint",
       "price": "274",
       "rating": "★★★★★",
